@@ -1,0 +1,57 @@
+html {
+    color: white;
+    background-image: url("../imagenes/beige.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%
+}
+.form-seccion{
+    width: 400px;
+    background: #913536;
+    padding: 30px;
+    margin: auto; 
+    margin-top: 100px; 
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+
+}
+.form-control{
+    width:100%;
+    background: #e9edc8;
+    padding: 15px;
+    border-radius: 100px;
+    margin-bottom: 16px;
+    border: 3px solid whitesmoke ;
+    font-family: 'calibri';
+    font-size:16px;
+
+}
+.form-seccion h4{
+    font-family: 'Verdana';
+    font-size: 32px;
+    margin-bottom: 20px;
+
+}
+.form-seccion .botons{
+    width: 100%;
+    background: #bbbbbb;
+    border:none;
+    padding:12px;
+    font-family: 'Verdana';
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+
+}
+
+#titulo h1{
+    font-family: 'verdana';
+    color: indigo;
+
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}

@@ -1,0 +1,125 @@
+header {
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #583413;
+    background-image: url("../imagenes/beige.jpg");
+}
+#titulo h1{
+    font-family: helvetica;
+    color: #583413;
+}
+
+.opciones{
+    width: 400px;
+    background: #913536;
+    padding: 30px;
+    margin: auto; 
+    margin-top: 100px; 
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+.opciones2{
+    width: 400px;
+    background: #CC925C;
+    padding: 30px;
+    margin: auto; 
+    margin-top: 100px; 
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+/*    .control{
+        width: 100%;
+        background: indigo;
+        border:none;
+        padding:12px;
+        font-family: 'Verdana';
+        color: white;
+        margin: 16px 0;
+        font-size: 16px;
+    }*/
+
+    .txt{ width: 100%;         
+        background: #e9edc8;
+        border:none;
+        padding:12px;
+        font-family: 'Verdana';
+        color: white;
+        margin: 16px 0;
+        font-size: 16px;        
+
+    }
+    .a:link{
+        color:white;
+        
+    }
+    .inicioestilo {
+
+
+        background-repeat: no-repeat;
+        background-size: 100%
+    }
+    *{
+        margin:0;
+        padding:0;
+        box-sizing: border-box;
+    }
+    /*.cargarlibro {
+       Group 1 
+    
+      position: absolute;
+      width: 340px;
+      height: 136px;
+      left: 550px;
+      top: 594px;
+    
+       Rectangle 1 
+    
+      position: absolute;
+      width: 340px;
+      height: 136px;
+      left: 550px;
+      top: 594px;
+    
+      background: #b877c2;
+      border-radius: 90px;
+    
+       Cargar Libro 
+    
+      position: absolute;
+      width: 243px;
+      height: 46px;
+      left: calc(50% - 243px / 2 - 0.5px);
+      top: calc(50% - 46px / 2 + 150px);
+    
+      font-family: Antic Slab;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 36px;
+      line-height: 43px;
+      text-align: center;
+    
+      color: #ffffff;
+    }*/
+    #titulo h1{
+        font-family: 'verdana';
+        color: indigo;
+
+    }
+    /* unvisited link */
+b:link {
+  color: red;
+}
+
+/* visited link */
+b:visited {
+  color: green;
+}
+
+/* mouse over link */
+b:hover {
+  color: hotpink;
+}

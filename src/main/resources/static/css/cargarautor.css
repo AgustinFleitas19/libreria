@@ -1,0 +1,40 @@
+.formu{
+    width: 400px;
+background: #913536;
+padding: 30px;
+margin: auto; 
+margin-top: 100px; 
+border-radius: 4px;
+font-family: 'calibri';
+color: white;
+box-shadow: 7px 13px 37px #000;
+
+}
+.form-control{
+     width:100%;
+    background: #e9edc8;
+    padding: 15px;
+    border-radius: 100px;
+    margin-bottom: 16px;
+    border: 3px solid whitesmoke;
+    font-family: 'calibri';
+    font-size:16px;
+    
+}
+html {
+    
+  color: white;
+  background-image: url("../imagenes/beige.jpg");
+  background-repeat: no-repeat;
+ background-size: 100%
+}
+ .boton{
+    width: 100%;
+    background: #bbbbbb;
+    border:none;
+    padding:12px;
+    font-family: 'Verdana';
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+}
